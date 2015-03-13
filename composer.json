@@ -1,0 +1,11 @@
+{
+    "name": "locomotivemtl/charcoal-module-boilerplate",
+    "type": "charcoal-module",
+    "require": {
+        "locomotivemtl/charcoal-composer-installer": "@dev"
+    },
+    "repositories":[{
+        "type":"vcs",
+        "url":"https://github.com/mducharme/charcoal-composer-installer"
+    }]
+}
